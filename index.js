@@ -1,5 +1,5 @@
 function aa() {
-    return 3;
+    return 4;
 }
 
 module.exports = aa;
